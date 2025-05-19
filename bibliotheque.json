@@ -1,0 +1,92 @@
+[
+    {
+        "ID": 1,
+        "Titre": "L'enfant noir",
+        "Auteur": "Camara Laye",
+        "Année": 1953,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 3,
+        "Titre": "L'Étranger",
+        "Auteur": "Albert Camus",
+        "Année": 1942,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 4,
+        "Titre": "Le Monde s’effondre",
+        "Auteur": "Chinua Achebe",
+        "Année": 1958,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 5,
+        "Titre": "Americanah",
+        "Auteur": "Chimamanda Ngozi Adichie",
+        "Année": 2013,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 6,
+        "Titre": "Mémoire d’un continent",
+        "Auteur": "Joseph Ki-Zerbo",
+        "Année": 1978,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 7,
+        "Titre": "La Force de l’âge",
+        "Auteur": "Simone de Beauvoir",
+        "Année": 1960,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 8,
+        "Titre": "Les Fous d’Afrique",
+        "Auteur": "Amadou Hampâté Bâ",
+        "Année": 1961,
+        "Lu": true,
+        "Note": null,
+        "Commentaire": "œuvre profonde et symbolique"
+    },
+    {
+        "ID": 9,
+        "Titre": "Demain j’aurai vingt ans",
+        "Auteur": "Alain Mabanckou",
+        "Année": 2010,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 10,
+        "Titre": "La Civilisation, ma mère !...",
+        "Auteur": "Driss Chraïbi",
+        "Année": 1972,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    },
+    {
+        "ID": 11,
+        "Titre": "Brève histoire du temps",
+        "Auteur": "Stephen Hawking",
+        "Année": 1988,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": ""
+    }
+]
